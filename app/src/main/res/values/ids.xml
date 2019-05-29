@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="title_text" type="id">title_text</item>
+    <item name="description_text" type="id">description_text</item>
+    <item name="fecha_text" type="id">fecha_text</item>
+</resources>
